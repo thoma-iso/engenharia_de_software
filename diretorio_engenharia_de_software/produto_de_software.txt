@@ -1,1 +1,28 @@
+Características de um bom produto de software
+
+  Um bom produto de software deve apresentar um conjunto de características que garantam sua eficiência, qualidade, facilidade de uso e manutenção ao longo do tempo. Abaixo estão algumas das principais características:
+
+1. Funcionalidade
+    O software deve cumprir corretamente os requisitos para os quais foi projetado, atendendo aos requisitos do cliente e  às necessidades dos usuários.
+
+2. Confiabilidade
+    O sistema deve operar de forma estável, com poucos erros e alta disponibilidade. O comportamento deve ser previsível mesmo em       situações inesperadas.
+
+3. Usabilidade
+    Deve ser fácil de aprender e utilizar, com uma interface amigável e intuitiva. Isso melhora a experiência do usuário final.
+
+4. Eficiência
+    O software deve utilizar bem os recursos do sistema (como memória e processamento), garantindo desempenho adequado.
+
+5. Manutenibilidade
+    É importante que o código seja organizado, bem documentado e de fácil compreensão, facilitando correções, melhorias e adaptações  futuras.
+
+6. Portabilidade
+    Um bom software deve ser capaz de funcionar em diferentes ambientes e sistemas operacionais com o mínimo de adaptações.
+
+7. Segurança
+    Deve proteger os dados e informações dos usuários contra acessos não autorizados, falhas ou ataques.
+
+8. Escalabilidade
+    O software deve estar preparado para crescer, tanto em número de usuários quanto em funcionalidades, sem perder desempenho.
 
